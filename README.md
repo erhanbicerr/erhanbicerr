@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working @ITU as a research assistant
+- 🔭 I've been doing researches within ITU Cognitive Social and Robotics Research Group
+- 📫 How to reach me: bicer21@itu.edu.tr
