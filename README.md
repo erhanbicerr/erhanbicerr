@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍🏫 I’m currently working @ITU as a research assistant
-- 🔭 I've been doing researches within ITU Cognitive and Social Robotics Research Group
-- 🤖 I'm interested in Affective Human-Robot Interaction
+- 🔭 I'm a researcher @ ITU Cognitive and Social Robotics Research Group
+- 🤖 I'm interested in Efficiency of Affective Systems in Human-Robot Interaction
 - 📫 How to reach me: bicer21@itu.edu.tr
